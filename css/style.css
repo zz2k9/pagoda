@@ -1,5 +1,7 @@
 @charset "UTF-8";
 /* layout styles */
+body{background-color:black;}
+.showMe{background-color: white;}
 .container-fluid {max-width:1100px; margin:0 auto; padding:0;}
 .content{ margin-bottom:10px; padding-bottom:15px; border-bottom:thin solid rgba(0,0,0,0.1);}
 .hero-unit{ text-align:center; padding:0;}
